@@ -1,0 +1,175 @@
+.contentBox{
+    border: 3px solid;
+    /* display: flex;
+    justify-content: center; */
+    width: 320px;
+    height: 635px;
+    padding: 7px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    
+}
+.serveBottomLine{
+   background-color: #000;
+   border: 0;
+   height: 10px;
+}
+.size{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0%;
+}
+.size h3{
+    margin-bottom: 3px;
+    margin-top: 2px;
+}
+h1{
+    margin:0%;
+}
+.serve{
+    font-size: 22px;
+}
+.amountPerServe{
+    margin: 0%;
+    font-size: 21px;
+}
+.caloriesInfo{
+    display: flex;
+    justify-content: space-between;
+}
+.caloriesInfo p{
+    margin: 3px;
+    font-size: 42px;
+    font-weight: 800;
+}
+.secondBold{
+    margin: 0%;
+    background-color: #000;
+   border: 0;
+   height: 5px;
+}
+.boldRightContent{
+    display: flex;
+    justify-content: right;
+}
+.boldRightContent p{
+    margin: 0%;
+    font-weight: 900;
+    font-size: 17px;
+}
+.tableContent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+.tableContent1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    margin-left: 20px;
+}
+.tableContent2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    margin-left: 20px;
+}
+.tableContent3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+.tableContent4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+.tableContent5{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+.tableContent6{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    margin-left: 20px;
+}
+.tableContent7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    margin-left: 20px;
+}
+.tableContent8{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    margin-left: 35px;
+}
+.divider{
+    margin: 0%;
+}
+.tableContent9{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+.divider3x{
+    margin: 0%;
+    background-color: #000;
+    border: 0;
+   height: 15px;
+}
+.newContent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+.newContent1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+.newContent2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+.newContent3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+.dividerx4{
+    margin: 0%;
+    background-color: #000;
+    border: 0;
+   height: 6px;
+}
+.lastPara p{
+    margin:0% ;
+
+}
+.secondHeading{
+    font-size: 20px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
